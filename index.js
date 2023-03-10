@@ -18,6 +18,6 @@ http
     res.write(JSON.stringify(items));
     res.end();
   })
-  .listen(3000);
+  .listen(process.env.PORT || 3000);
 
   
