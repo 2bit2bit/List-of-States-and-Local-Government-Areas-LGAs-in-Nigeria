@@ -4,8 +4,7 @@
 
 This is a RESTFUL API that return the list of All states and their local governments area in nigeria.
 
-This project was created to demonstrate [How to Deploy a Node.js Application with render](). 
-<!-- Update the above link -->
+This project was created to demonstrate [How to Deploy a Node.js Application with render](https://2bit.hashnode.dev/how-to-deploy-your-nodejs-application-for-free-with-render-a-step-by-step-guide). 
 
 
 ## Setup
@@ -41,6 +40,4 @@ This project was created to demonstrate [How to Deploy a Node.js Application wit
 
 https://en.wikipedia.org/wiki/Local_government_areas_of_Nigeria
 
-LICENCE: [MIT]()
-
-<!-- add all necesary links -->
+LICENCE: [MIT](https://github.com/2bit2bit/List-of-States-and-Local-Government-Areas-LGAs-in-Nigeria/blob/main/LICENCE.md)
