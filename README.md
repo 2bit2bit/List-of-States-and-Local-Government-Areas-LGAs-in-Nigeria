@@ -13,7 +13,7 @@ This project was created to demonstrate [How to Deploy a Node.js Application wit
 3. Run `npm start`
 
 ## Base URL
-[link to deployed app]()
+[link to deployed app](https://states-and-lgas-ng.onrender.com)
 
 ## APIs
 - Route: /
